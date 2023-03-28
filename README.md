@@ -19,7 +19,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pame-scs&" alt="pame-scs" /></p>
 
-### About my Portfolio
+------------
+
+## About my Portfolio
 
 *The first projects here are very simple and beginer level. I am planning to upload projects of a more advanced level while I study and improve my skills. So don't worry if the oldest projects are very low level*
 
@@ -27,7 +29,7 @@
 
 ------------
 
-#### [Front End Projects][1]
+### [Front End Projects][1]
 [1]: https://github.com/pame-scs/pame-scs/tree/Portfolio/Front%20End 
 *I want to specialize in Front-End so here is where I am going to put all my projects related to Front-End *
 
