@@ -31,7 +31,7 @@
 
 ### [Front End Projects][1]
 [1]: https://github.com/pame-scs/pame-scs/tree/Portfolio/Front%20End 
-*I want to specialize in Front-End so here is where I am going to put all my projects related to Front-End *
+*I want to specialize in Front-End so here is where I am going to put all my projects related to Front-End*
 
 ###### Proyects (Chronological order)
 1. [Single Price Page][2]
