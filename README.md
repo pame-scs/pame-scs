@@ -47,6 +47,9 @@
 
 *Date*
 > **1st Commit** 28 March 2023
+
 Just basic HTML and CSS without responsivness
+
 > **2nd Commit** 30 March 2023
+
 Upgrade the CSS to be more responsive (Medias Querys)
