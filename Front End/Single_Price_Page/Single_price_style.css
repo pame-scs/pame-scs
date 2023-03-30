@@ -2,32 +2,63 @@ body {
     padding:0;
     margin:0;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
     width:100vw;
     min-height:100vh;
     font-family:Helvetica, sans-serif;
+    box-sizing: border-box;
+    grid-gap: 10px;
+}
+
+@media only screen and (min-width: 640px){
+    body{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+    #Community {
+        grid-row: 1 ;
+        grid-column: 1 / 3 ;
+        padding: 3em;
+    }
+    #Subscription{
+        grid-row: 2/3;
+        grid-column: 1;
+        padding: 3em;
+    }
+    #Why{
+        grid-row: 2/3;
+        grid-column: 2;
+        padding: 3em;
+    }
+}
+
+@media only screen and (max-width: 640px){
+    body{
+        grid-template-rows: minmax(60px,auto)  minmax(120px, 1fr) minmax(60px,auto);
+    }
+    #Community {
+        grid-row: 1;
+        padding: 1em;
+    }
+    #Subscription{
+        grid-row: 3;
+        padding: 1em;
+    }
+    #Why{
+        grid-row: 2;
+        padding: 1em;
+    }
 }
 
 #Community {
-    grid-row: 1 ;
-    grid-column: 1 / 3 ;
     background-color: #2E4F4F;
-    padding: 3em;
 }
 
 #Subscription{
-    grid-row: 2/3;
-    grid-column: 1;
     background: #0E8388; 
-    padding: 3em;
 }
 
 #Why{
-    grid-row: 2/3;
-    grid-column: 2;
     background-color: #CBE4DE;
-    padding: 3em;
 }
 
 button{
