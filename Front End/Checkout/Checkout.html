@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+    <link rel="stylesheet" type="text/css" href="Checkout_style.css">
+</head>
+<body>
+    <div id="Container">
+        <div class="mySlides fade">
+            <img src="Images/1.png" alt="1" style="width:80%; border-radius: 3em;">
+        </div>
+        <div class="mySlides fade">
+            <img src="Images/2.png" alt="2" style="width:80%; border-radius: 3em;">
+        </div>
+        <div class="mySlides fade">
+            <img src="Images/3.png" alt="3" style="width:80%; border-radius: 3em;">
+        </div> 
+        <span id="Btns">
+            <button class="next" onclick="plusSlides(1)">❮</button>
+            <button class="prev" onclick="plusSlides(-1)">❯</button>
+        </span>
+    </div>
+    <div id="Forms">
+        <div id="Check">
+            <h1>Checkout</h1>
+            <form>
+                <input type="text" placeholder="Card Name"><br>
+                <input type="text" placeholder="Card Number"><br>
+                <input type="text" placeholder="Cardholder Name"><br>
+                <input type="date"><br>
+                <input type="text" placeholder="CVV"><br>
+            </form>
+            <button id="submit">Submit</button>
+        </div>
+    </div>
+    <script src="Checkout_js.js"></script>
+</body>
+</html>
