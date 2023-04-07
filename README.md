@@ -19,7 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pame-scs&show_icons=true&locale=en&layout=compact" alt="pame-scs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pame-scs&show_icons=true&locale=en" alt="pame-scs" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pame-scs&" alt="pame-scs" /></p>
-
