@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **In the University of Strasbourg**
 
-- 📫 How to reach me **you can always contact me on instagram (pame_scs) or by email (cpamelasofia6@gmail.com)**
+- 📫 How to reach me **you can always contact me by email (cpamelasofia6@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
